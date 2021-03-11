@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "lib": ["ES2020"],
+    "target": "ES5",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "isolatedModules": true,
+    "importHelpers": true,
+    "strict": true,
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "declaration": true
+  },
+  "include": ["src/"],
+  "exclude": ["**/*.(spec|test).ts", "node_modules/"]
+}
