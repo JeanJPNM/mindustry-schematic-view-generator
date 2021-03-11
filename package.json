@@ -42,6 +42,6 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "mindustry-schematic-parser": "^1.1.0"
+    "mindustry-schematic-parser": "^1.1.2"
   }
 }
