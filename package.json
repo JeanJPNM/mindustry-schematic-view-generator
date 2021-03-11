@@ -12,6 +12,7 @@
     "prepare": "tsc"
   },
   "files": [
+    "dist",
     "src/",
     "!*.(test|spec).*"
   ],
